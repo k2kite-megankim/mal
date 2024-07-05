@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\megankim\work\mal\keyLogger\x64\Debug\HookDLL.dll</FullPath>
+      <FullPath>D:\megan_git\mal\keyLogger\x64\Debug\HookDLL.dll</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
