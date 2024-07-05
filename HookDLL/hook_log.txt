@@ -1,0 +1,2753 @@
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+Message received: 49880 for HWND: 0000000000010A0A
+Message received: 49880 for HWND: 0000000000010A0A
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 96 for HWND: 0000000000110862
+Message received: 96 for HWND: 0000000000110862
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 96 for HWND: 0000000000110862
+Message received: 96 for HWND: 0000000000110862
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 28 for HWND: 0000000000020AB4
+Message received: 28 for HWND: 0000000000020AB4
+Message received: 96 for HWND: 0000000000110862
+Message received: 96 for HWND: 0000000000110862
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000020A44
+Message received: 275 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 275 for HWND: 0000000000020A40
+Message received: 275 for HWND: 0000000000020A40
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 28 for HWND: 0000000000020AB4
+Message received: 28 for HWND: 0000000000020AB4
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49880 for HWND: 0000000000010A0A
+Message received: 49880 for HWND: 0000000000010A0A
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 96 for HWND: 0000000000110862
+Message received: 96 for HWND: 0000000000110862
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 96 for HWND: 0000000000110862
+Message received: 96 for HWND: 0000000000110862
+Message received: 96 for HWND: 0000000000110862
+Message received: 96 for HWND: 0000000000110862
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 28 for HWND: 0000000000020AB4
+Message received: 28 for HWND: 0000000000020AB4
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 96 for HWND: 0000000000110862
+Message received: 96 for HWND: 0000000000110862
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 0 for HWND: 0000000000000000
+Message received: 0 for HWND: 0000000000000000
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 275 for HWND: 0000000000020A44
+Message received: 275 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 32767 for HWND: 0000000000020A44
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000020A40
+Message received: 275 for HWND: 0000000000020A40
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000209F0
+Message received: 275 for HWND: 00000000000209F0
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 0000000000030770
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 0000000000030770
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 0000000000030770
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 0000000000030770
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 0000000000030770
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 0000000000030770
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 0000000000030770
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 0000000000030770
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 0000000000030770
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 0000000000030770
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 0000000000030770
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 0000000000030770
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 0000000000030770
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 675 for HWND: 0000000000010A0A
+Message received: 675 for HWND: 0000000000010A0A
+Message received: 49650Message received: 49650 for HWND:  for HWND: 00000000000109E80000000000030770
+
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 0000000000030770
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 0000000000030770
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 0000000000030770
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 512 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 675 for HWND: 0000000000010A0A
+Message received: 675 for HWND: 0000000000010A0A
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 49650 for HWND: 00000000000109E8
+Message received: 275 for HWND: 00000000000209F0
+Message received: 275 for HWND: 00000000000209F0
+hook_log.txt create!
+Message received1: 28 for HWND: 0000000000020AB4
+Message received1: 28 for HWND: 0000000000020AB4
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49880 for HWND: 0000000000010A0A
+Message received1: 49880 for HWND: 0000000000010A0A
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 28 for HWND: 0000000000020AB4
+Message received1: 28 for HWND: 0000000000020AB4
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000020A44
+Message received1: 275 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 275 for HWND: 0000000000020A40
+Message received1: 275 for HWND: 0000000000020A40
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 28 for HWND: 0000000000020AB4
+Message received1: 28 for HWND: 0000000000020AB4
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49880 for HWND: 0000000000010A0A
+Message received1: 49880 for HWND: 0000000000010A0A
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 28 for HWND: 0000000000020AB4
+Message received1: 28 for HWND: 0000000000020AB4
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 675 for HWND: 0000000000010A0A
+Message received1: 675 for HWND: 0000000000010A0A
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 0000000000020A44
+Message received1: 275 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 0000000000020A40
+Message received1: 275 for HWND: 0000000000020A40
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 675 for HWND: 0000000000010A0A
+Message received1: 675 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 675 for HWND: 0000000000010A0A
+Message received1: 675 for HWND: 0000000000010A0A
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 160 for HWND: 0000000000010A0A
+hook_log.txt create!
+Message received1: 28 for HWND: 0000000000020AB4
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49880 for HWND: 0000000000010A0A
+Message received1: 49880 for HWND: 0000000000010A0A
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 28 for HWND: 0000000000020AB4
+Message received1: 28 for HWND: 0000000000020AB4
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000020A44
+Message received1: 275 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 275 for HWND: 0000000000020A40
+Message received1: 275 for HWND: 0000000000020A40
+Message received1: 28 for HWND: 0000000000020AB4
+Message received1: 28 for HWND: 0000000000020AB4
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49880 for HWND: 0000000000010A0A
+Message received1: 49880 for HWND: 0000000000010A0A
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 28 for HWND: 0000000000020AB4
+Message received1: 28 for HWND: 0000000000020AB4
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 96 for HWND: 0000000000110862
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 0000000000020A44
+Message received1: 275 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 32767 for HWND: 0000000000020A44
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 275 for HWND: 0000000000020A40
+Message received1: 275 for HWND: 0000000000020A40
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 675 for HWND: 0000000000010A0A
+Message received1: 675 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 0000000000030770
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 512 for HWND: 0000000000010A0A
+Message received1: 675 for HWND: 0000000000010A0A
+Message received1: 675 for HWND: 0000000000010A0A
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 49650 for HWND: 00000000000109E8
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 275 for HWND: 00000000000209F0
+Message received1: 275 for HWND: 00000000000209F0
+hook_log.txt create!
+Message received1: 49833 for HWND: 00000000000105BE
+Message received1: 49833 for HWND: 00000000000105BE
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 96 for HWND: 0000000000030560
+Message received1: 96 for HWND: 0000000000030560
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 96 for HWND: 0000000000030560
+Message received1: 96 for HWND: 0000000000030560
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 28 for HWND: 0000000000030A76
+Message received1: 28 for HWND: 0000000000030A76
+Message received1: 96 for HWND: 0000000000030560
+Message received1: 96 for HWND: 0000000000030560
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000020586
+Message received1: 275 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 275 for HWND: 0000000000010658
+Message received1: 275 for HWND: 0000000000010658
+Message received1: 28 for HWND: 0000000000030A76
+Message received1: 28 for HWND: 0000000000030A76
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49833 for HWND: 00000000000105BE
+Message received1: 49833 for HWND: 00000000000105BE
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 96 for HWND: 0000000000030560
+Message received1: 96 for HWND: 0000000000030560
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 96 for HWND: 0000000000030560
+Message received1: 96 for HWND: 0000000000030560
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 96 for HWND: 0000000000030560
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 96 for HWND: 0000000000030560
+Message received1: 96 for HWND: 0000000000030560
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 28 for HWND: 0000000000030A76
+Message received1: 28 for HWND: 0000000000030A76
+Message received1: 96 for HWND: 0000000000030560
+Message received1: 96 for HWND: 0000000000030560
+Message received1: 675 for HWND: 00000000000105BE
+Message received1: 675 for HWND: 00000000000105BE
+Message received1: 96 for HWND: 0000000000030560
+Message received1: 96 for HWND: 0000000000030560
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 0000000000000000
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 275 for HWND: 0000000000020586
+Message received1: 275 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 32767 for HWND: 0000000000020586
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 0000000000010658
+Message received1: 275 for HWND: 0000000000010658
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 49674 for HWND: 0000000000020638
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 49674 for HWND: 0000000000020638
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: Message received1: 49674275 for HWND:  for HWND: 00000000000206380000000000030598
+
+Message received1: 275 for HWND: 0000000000030598
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 49674 for HWND: 0000000000020638
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 49674 for HWND: 0000000000020638
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 49674 for HWND: 0000000000020638
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 49674 for HWND: 0000000000020638
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 49674 for HWND: 0000000000020638
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 49674 for HWND: 0000000000020638
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 49674 for HWND: 0000000000020638
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: Message received1: 27549674 for HWND:  for HWND: 000000000004055C0000000000020638
+
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 49674 for HWND: 0000000000020638
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 49674 for HWND: 0000000000020638
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 49674 for HWND: 0000000000020638
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 0000000000020638Message received1: 
+275 for HWND: 000000000004055C
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 512 for HWND: 00000000000105BE
+Message received1: 49674 for HWND: 0000000000020638
+Message received1: 675 for HWND: 00000000000105BE
+Message received1: 675 for HWND: 00000000000105BE
+Message received1: 49674 for HWND: 0000000000020638
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 275 for HWND: 0000000000030598
+Message received1: 275 for HWND: 0000000000030598
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 275 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+Message received1: 49674 for HWND: 000000000004055C
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+Message received: 28 for HWND: 0000000000030A76
+Message received: 28 for HWND: 0000000000030A76
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49833 for HWND: 00000000000105BE
+Message received: 49833 for HWND: 00000000000105BE
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 96 for HWND: 0000000000030560
+Message received: 96 for HWND: 0000000000030560
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 28 for HWND: 0000000000030A76
+Message received: 28 for HWND: 0000000000030A76
+Message received: 96 for HWND: 0000000000030560
+Message received: 96 for HWND: 0000000000030560
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 0000000000020586
+Message received: 275 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 275 for HWND: 0000000000010658
+Message received: 275 for HWND: 0000000000010658
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 28 for HWND: 0000000000030A76
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49833 for HWND: 00000000000105BE
+Message received: 49833 for HWND: 00000000000105BE
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 96 for HWND: 0000000000030560
+Message received: 96 for HWND: 0000000000030560
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 28 for HWND: 0000000000030A76
+Message received: 28 for HWND: 0000000000030A76
+Message received: 96 for HWND: 0000000000030560
+Message received: 96 for HWND: 0000000000030560
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 675 for HWND: 00000000000105BE
+Message received: 675 for HWND: 00000000000105BE
+Message received: 96 for HWND: 0000000000030560
+Message received: 96 for HWND: 0000000000030560
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000020586
+Message received: 275 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000010658
+Message received: 275 for HWND: 0000000000010658
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 0000000000030598
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 675 for HWND: 00000000000105BE
+Message received: 675 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+hook_log.txt create!
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49833 for HWND: 00000000000105BE
+Message received: 49833 for HWND: 00000000000105BE
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 96 for HWND: 0000000000030560
+Message received: 96 for HWND: 0000000000030560
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 96 for HWND: 0000000000030560
+Message received: 96 for HWND: 0000000000030560
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 28 for HWND: 0000000000030A76
+Message received: 28 for HWND: 0000000000030A76
+Message received: 96 for HWND: 0000000000030560
+Message received: 96 for HWND: 0000000000030560
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 0000000000030598
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000020586
+Message received: 275 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 275 for HWND: 0000000000010658
+Message received: 275 for HWND: 0000000000010658
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 28 for HWND: 0000000000030A76
+Message received: 28 for HWND: 0000000000030A76
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49833 for HWND: 00000000000105BE
+Message received: 49833 for HWND: 00000000000105BE
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 96 for HWND: 0000000000030560
+Message received: 96 for HWND: 0000000000030560
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 96 for HWND: 0000000000030560
+Message received: 96 for HWND: 0000000000030560
+Message received: 512 for HWND: 00000000000105BE
+Message received: 96 for HWND: 0000000000030560
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 28 for HWND: 0000000000030A76
+Message received: 28 for HWND: 0000000000030A76
+Message received: 96 for HWND: 0000000000030560
+Message received: 96 for HWND: 0000000000030560
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 675 for HWND: 00000000000105BE
+Message received: 675 for HWND: 00000000000105BE
+Message received: 96 for HWND: 0000000000030560
+Message received: 96 for HWND: 0000000000030560
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 0000000000020586
+Message received: 275 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 32767 for HWND: 0000000000020586
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000010658
+Message received: 275 for HWND: 0000000000010658
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638Message received: 
+275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 0000000000020638
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 512 for HWND: 00000000000105BE
+Message received: 512 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 675 for HWND: 00000000000105BE
+Message received: 675 for HWND: 00000000000105BE
+Message received: 49674 for HWND: 0000000000020638
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 0000000000000000
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 275 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 49674 for HWND: 000000000004055C
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 0000000000030598
+Message received: 275 for HWND: 0000000000030598
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+hook_log.txt create!
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+hook_log.txt create!
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+hook_log.txt create!
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+hook_log.txt create!
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+targetClosed == NULL0000000000000000
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
+hook_log.txt create!
