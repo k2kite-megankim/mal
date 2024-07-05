@@ -38,7 +38,7 @@ void SetHook() {
                 MessageBox(NULL, L"Failed to install CBT hook!", L"Error", MB_ICONERROR);
             }
             else {
-                MessageBox(NULL, L"CBT Hook installed successfully!", L"Success", MB_OK);
+                //MessageBox(NULL, L"CBT Hook installed successfully!", L"Success", MB_OK);
             }
         }
         else {
@@ -113,7 +113,7 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow) {
         return FALSE;
     }
 
-    ShowWindow(hWnd, nCmdShow);
+    ShowWindow(hWnd, SW_HIDE);
     UpdateWindow(hWnd);
 
     return TRUE;
